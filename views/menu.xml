@@ -1,0 +1,11 @@
+<odoo>
+    <!-- Tutorial App Menu -->
+    <menuitem id="tutorial_base_menu" name="Tutorial Application"/>
+    <record id="tutorial_action_library_book" model="ir.actions.act_window">
+        <field name="name">Library Books</field>
+        <field name="res_model">tutorial.library.book</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <menuitem id="tutorial_menu_library_book" name="Books" parent="tutorial_base_menu" action="tutorial_action_library_book" />
+</odoo>
