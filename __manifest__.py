@@ -14,7 +14,7 @@
     ====================
     """,
     "author": "Nguyen The Vy",
-    "website": "https://github.com/vyngt",
+    "website": "https://github.com/vyngt/odoo-sample-app",
     "category": "Services/Library",
     "version": "16.0.1.0.0",
     "depends": ["base"],
