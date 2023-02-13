@@ -6,7 +6,7 @@
                 <div class="row">
                     <span t-field="book.name" />
 ,
-                    <span t-field="book.date_publish" />
+                    <span t-field="book.date_published" />
 ,
                     <span t-field="book.publisher_id" />
                 </div>

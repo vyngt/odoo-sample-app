@@ -1,3 +1,5 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 tutorial.access_tutorial_library_book_user,BookUser,tutorial.model_tutorial_library_book,library_group_user,1,1,1,0
 tutorial.access_tutorial_library_book_manager,BookManager,tutorial.model_tutorial_library_book,library_group_manager,1,1,1,1
+tutorial.access_tutorial_library_book_category_user,BookCategoryUser,tutorial.model_tutorial_library_book_category,library_group_user,1,1,1,1
+

@@ -8,4 +8,6 @@
     </record>
 
     <menuitem id="tutorial_menu_library_book" name="Books" parent="tutorial_base_menu" action="tutorial_action_library_book" />
+
+    <menuitem id="tutorial_menu_library_configuration" name="Configuration" parent="tutorial_base_menu" />
 </odoo>
