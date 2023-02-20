@@ -26,5 +26,9 @@
         "views/book_list_template.xml",
     ],
     "application": True,
-    # "demo": ["demo.xml"],
+    "demo": [
+        "data/res.partner.csv",
+        "data/tutorial.library.book.csv",
+        "data/book_demo.xml",
+    ],
 }

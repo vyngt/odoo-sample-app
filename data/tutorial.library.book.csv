@@ -1,0 +1,4 @@
+id,name,date_published,publisher_id/id,author_ids/id
+tutorial_book_t4tek_a,Intro Odoo,2023-02-10,res_partner_vinhq,res_partner_backend,res_partner_giaup
+tutorial_book_t4tek_b,Intro Python,2023-02-20,res_partner_vinhq,res_partner_haunv
+tutorial_book_t4tek_c,Intro Kotlin,2023-02-15,res_partner_vinhq,res_partner_anhltk,res_partner_dungp
