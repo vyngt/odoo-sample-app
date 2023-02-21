@@ -6,7 +6,6 @@
     <record model="tutorial.library.book" id="library_book_bms">
         <field name="name">Brave My Soul</field>
         <field name="author_ids" eval="[(4, ref('res_partner_vyngt'))]" />
-        <field name="publisher_id" eval="[(4, ref('res_partner_vyngt'))]" />
         <field name="date_published">2005-01-01</field>
     </record>
 </odoo>
