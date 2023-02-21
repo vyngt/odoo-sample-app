@@ -2,8 +2,8 @@ from odoo import http
 
 
 class Books(http.Controller):
-    @http.route("/tutorial-library/books")
-    def list(self):
+    @http.route("/tutorial/library/books")
+    def list(self, **kwargs):
         Book = http.request.env["tutorial.library.book"]
         books = Book.search([])
         return http.request.render(
