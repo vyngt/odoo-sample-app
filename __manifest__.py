@@ -24,6 +24,8 @@
         "views/book_view.xml",
         "views/menu.xml",
         "views/book_list_template.xml",
+        "reports/tutorial_library_book_report.xml",
+        "reports/library_publisher_report.xml",
     ],
     "application": True,
     "demo": [
